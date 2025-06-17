@@ -17,14 +17,17 @@ I help businesses turn complex data into smart, visual and actionable insights. 
 
 ---
 
+
 ## 💼 Tools & Tech I Use
 
-<code><img height="40" src="![Uploading Proyecto nuevo (7).png…]()"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/11517/11517105.png"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
+<img src="https://github.com/user-attachments/assets/7ebe659f-fce8-4465-a596-ec75f0539568" width="50" />
+<img src="https://github.com/user-attachments/assets/55b85c33-e1ba-4594-9790-ac658946737f" width="50" />
+<img src="https://github.com/user-attachments/assets/52dc5a98-2832-4367-a01f-90348ff29776" width="50" />
+<img src="https://github.com/user-attachments/assets/bfae9a4e-a6f5-4e84-bec1-a6a3cd4d3304" width="50" />
+<img src="https://github.com/user-attachments/assets/fea91b11-8e9e-4836-af26-9d4679f1d52f" width="50" />
+<img src="https://github.com/user-attachments/assets/fea91b11-8e9e-4836-af26-9d4679f1d52f" width="50" />
+
+
 
 - **Power BI, Looker Studio, Tableau** – Advanced reporting & visuals  
 - **Python (Pandas, Matplotlib, Seaborn)** – For automation & modeling  
