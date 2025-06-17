@@ -51,4 +51,3 @@ I specialize in building interactive dashboards, automating reports, and applyin
 ---
 
 > 🚀 *Always building, always improving. Thanks for stopping by!*  
-> ✨ *Last updated: 12/06/2025*
