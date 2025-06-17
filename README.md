@@ -19,8 +19,7 @@ I help businesses turn complex data into smart, visual and actionable insights. 
 
 ## 💼 Tools & Tech I Use
 
-<code><img height="40" src="![image](https://github.com/user-attachments/assets/aec4065b-49ae-4486-9189-ac3670d3b03b)
-"></code>
+<code><img height="40" src="![Uploading Proyecto nuevo (7).png…]()"></code>
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"></code>
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></code>
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969044.png"></code>
