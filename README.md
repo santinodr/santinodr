@@ -1,13 +1,9 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1E3A8A&reversal=true" />
 
 <h3 align="center">
-  Hi, I'm Abdalrahman Alhamod
+   # 👋 Hey, I’m Santino
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-# 👋 Hey, I’m Santino
 
 - 📊 Data Analyst & Dashboard Developer  
 - 🧠 Passionate about business intelligence, marketing & performance analytics  
