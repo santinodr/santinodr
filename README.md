@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/42ed77c2-178b-402a-b640-112867ca2115) Hey, I’m Santino!
+# <img src="https://github.com/user-attachments/assets/42ed77c2-178b-402a-b640-112867ca2115" width="60"/> Hey, I’m Santino!
 
 ![wave](https://emojipedia-us.s3.amazonaws.com/source/skype/289/waving-hand_1f44b.gif)  
 
