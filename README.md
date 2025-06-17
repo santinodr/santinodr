@@ -25,8 +25,7 @@ I help businesses turn complex data into smart, visual and actionable insights. 
 <img src="https://github.com/user-attachments/assets/52dc5a98-2832-4367-a01f-90348ff29776" width="50" />
 <img src="https://github.com/user-attachments/assets/bfae9a4e-a6f5-4e84-bec1-a6a3cd4d3304" width="50" />
 <img src="https://github.com/user-attachments/assets/fea91b11-8e9e-4836-af26-9d4679f1d52f" width="50" />
-<img src="https://github.com/user-attachments/assets/fea91b11-8e9e-4836-af26-9d4679f1d52f" width="50" />
-
+<img src="https://github.com/user-attachments/assets/c653003c-4a26-43db-9baa-fa3470bb2b59" width="50" />
 
 
 - **Power BI, Looker Studio, Tableau** – Advanced reporting & visuals  
