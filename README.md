@@ -2,7 +2,7 @@
 
 > 🧠 Fundador de una Agencia de Inteligencia Artificial  
 > 🤖 Especialista en Automatizaciones con IA para negocios  
-> 📊 Ex Analista de Datos y Desarrollador de Dashboards  
+> 📊 Analista de Datos y Científico de Datos  
 > 🚀 Creo sistemas que trabajan por vos, mientras dormís  
 
 ---
@@ -43,8 +43,8 @@ En mi agencia ayudamos a emprendedores y empresas a:
 
 ## 📩 ¿Charlamos?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zytaur/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@zytaur.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zentramax/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drsantinodr@gmail.com)
 
 ---
 
